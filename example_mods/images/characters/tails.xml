@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tails.png"><SubTexture name="tails idle0000" x="467" y="493" width="587" height="434" frameX="0" frameY="0" frameWidth="587" frameHeight="434" />
+<SubTexture name="tails idle0001" x="1196" y="0" width="387" height="434" frameX="0" frameY="0" frameWidth="387" frameHeight="434" />
+<SubTexture name="tails idle0002" x="0" y="949" width="587" height="434" frameX="0" frameY="0" frameWidth="587" frameHeight="434" />
+<SubTexture name="tails singLEFT0000" x="587" y="949" width="534" height="434" frameX="0" frameY="0" frameWidth="534" frameHeight="434" />
+<SubTexture name="tails singLEFT0001" x="1583" y="0" width="524" height="434" frameX="0" frameY="0" frameWidth="524" frameHeight="434" />
+<SubTexture name="tails singRIGHT0000" x="0" y="1383" width="540" height="434" frameX="0" frameY="0" frameWidth="540" frameHeight="434" />
+<SubTexture name="tails singRIGHT0001" x="540" y="1383" width="559" height="434" frameX="0" frameY="0" frameWidth="559" frameHeight="434" />
+<SubTexture name="tails up0000" x="0" y="0" width="358" height="493" frameX="0" frameY="0" frameWidth="358" frameHeight="493" />
+<SubTexture name="tails up0001" x="358" y="0" width="359" height="484" frameX="0" frameY="0" frameWidth="359" frameHeight="484" />
+<SubTexture name="tails down0000" x="717" y="0" width="479" height="464" frameX="0" frameY="0" frameWidth="479" frameHeight="464" />
+<SubTexture name="tails down0001" x="0" y="493" width="467" height="456" frameX="0" frameY="0" frameWidth="467" frameHeight="456" />
+</TextureAtlas>

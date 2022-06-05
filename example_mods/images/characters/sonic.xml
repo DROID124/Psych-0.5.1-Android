@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic.png"><SubTexture name="sonic idle0000" x="1476" y="0" width="398" height="499" frameX="0" frameY="0" frameWidth="398" frameHeight="499" />
+<SubTexture name="sonic idle0001" x="418" y="559" width="365" height="506" frameX="0" frameY="0" frameWidth="365" frameHeight="506" />
+<SubTexture name="sonic idle0002" x="1120" y="0" width="356" height="506" frameX="0" frameY="0" frameWidth="356" frameHeight="506" />
+<SubTexture name="sonic singLEFT0000" x="0" y="1066" width="400" height="492" frameX="0" frameY="0" frameWidth="400" frameHeight="492" />
+<SubTexture name="sonic singLEFT0001" x="400" y="1066" width="399" height="492" frameX="0" frameY="0" frameWidth="399" frameHeight="492" />
+<SubTexture name="sonic singDOWN0000" x="799" y="1066" width="398" height="364" frameX="0" frameY="0" frameWidth="398" frameHeight="364" />
+<SubTexture name="sonic singDOWN0001" x="1476" y="499" width="398" height="374" frameX="0" frameY="0" frameWidth="398" frameHeight="374" />
+<SubTexture name="sonic singRIGHT0000" x="724" y="0" width="396" height="507" frameX="0" frameY="0" frameWidth="396" frameHeight="507" />
+<SubTexture name="sonic singRIGHT0001" x="0" y="559" width="418" height="507" frameX="0" frameY="0" frameWidth="418" frameHeight="507" />
+<SubTexture name="sonic singUP0000" x="0" y="0" width="366" height="559" frameX="0" frameY="0" frameWidth="366" frameHeight="559" />
+<SubTexture name="sonic singUP0001" x="366" y="0" width="358" height="553" frameX="0" frameY="0" frameWidth="358" frameHeight="553" />
+</TextureAtlas>
